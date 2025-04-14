@@ -6,7 +6,7 @@ package com.mycompany.assignment;
 
 /**
  *
- * @author mokwena
+ * @author mokoena
  */
 import javax.swing.JOptionPane;
 
